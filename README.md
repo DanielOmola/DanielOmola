@@ -14,7 +14,7 @@ All the projects would also be used in the context of the classes I teach at Ins
 Paris Dauphine University (Data Management Certificat). 
 
 Each project contains a detailed README.md file to enable a full understanding and make easier its usage.
-<p style="color:red">You can open a link in new tab by doing a CTRL+click.</p>
+<p style="color:red;">You can open a link in new tab by doing a CTRL+click.</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
