@@ -87,7 +87,7 @@ Each project contains a detailed README.md file to enable a full understanding a
     <li>
       <a href="#getting-started">Tensor Flow</a>
       <ul>
-        <li><a href="#description">LSTM_Anomaly_Detection</a></li>
+        <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/LSTM_Anomaly_Detection">LSTM_Anomaly_Detection</a></li>
       </ul>
     </li>
   </ol>
