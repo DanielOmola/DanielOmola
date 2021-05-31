@@ -1,5 +1,5 @@
 <a href="https://executive-education.dauphine.psl.eu/formations/executive-master-diplome-universite/ia-science-donnees" target="_blank">
-    <img src="images/image_5.gif" alt="Logo" width="800" height="400">
+    <img src="image_1.gif" alt="Logo" width="800" height="400">
 </a>
  
 # My Data Science Portfolio
