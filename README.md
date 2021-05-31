@@ -81,13 +81,13 @@ Each project contains a detailed README.md file to enable a full understanding a
     <li>
       <a href="#about-the-project">Pytorch</a>
       <ul>
-        <li><a href="#description">Neural_Networks_Adversarial_Attacks_Defense</a></li>
+        <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/Neural_Networks_Adversarial_Attacks_Defense">Neural_Networks_Adversarial_Attacks_Defense</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Tensor Flow</a>
       <ul>
-        <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/LSTM_Anomaly_Detection">LSTM_Anomaly_Detection</a></li>
+        <li><a href="#description">LSTM_Anomaly_Detection</a></li>
       </ul>
     </li>
   </ol>
