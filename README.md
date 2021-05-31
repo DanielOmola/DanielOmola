@@ -1,10 +1,10 @@
 <a href="https://executive-education.dauphine.psl.eu/formations/executive-master-diplome-universite/ia-science-donnees" target="_blank">
     <img src="image_1.gif" alt="Logo" width="800" height="400">
 </a>
-[go](https://executive-education.dauphine.psl.eu/formations/executive-master-diplome-universite/ia-science-donnees){:target="_blank"} 
+ 
 # My Data Science Portfolio
 
-* <a href="https://www.youtube.com/watch?v=nk2CQITm_eo" target="_blank">StatQuest: Linear Models Pt.1 - Linear Regression</a>
+
  
 Here are some projects I'd like to share with you. They cover topics such as 
 Neural Net Networks, Anomalies detection, Adversarial Attacks, NLP, Visualisation...
@@ -14,7 +14,7 @@ All the projects would also be used in the context of the classes I teach at Ins
 Paris Dauphine University (Data Management Certificat). 
 
 Each project contains a detailed README.md file to enable a full understanding and make easier its usage.
-
+<p style="color:red">You can open a link in new tab by doing a CTRL+click.</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
