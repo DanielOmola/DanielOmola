@@ -4,7 +4,7 @@
  
 # My Data Science Portfolio
 
-
+* <a href="https://www.youtube.com/watch?v=nk2CQITm_eo" target="_blank">StatQuest: Linear Models Pt.1 - Linear Regression</a>
  
 Here are some projects I'd like to share with you. They cover topics such as 
 Neural Net Networks, Anomalies detection, Adversarial Attacks, NLP, Visualisation...
