@@ -1,7 +1,7 @@
 <a href="https://executive-education.dauphine.psl.eu/formations/executive-master-diplome-universite/ia-science-donnees" target="_blank">
     <img src="image_1.gif" alt="Logo" width="800" height="400">
 </a>
- 
+[go](https://executive-education.dauphine.psl.eu/formations/executive-master-diplome-universite/ia-science-donnees){:target="_blank"} 
 # My Data Science Portfolio
 
 * <a href="https://www.youtube.com/watch?v=nk2CQITm_eo" target="_blank">StatQuest: Linear Models Pt.1 - Linear Regression</a>
