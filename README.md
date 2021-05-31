@@ -81,7 +81,7 @@ Each project contains a detailed README.md file to enable a full understanding a
     <li>
       <a href="#about-the-project">Pytorch</a>
       <ul>
-        <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/Neural_Networks_Adversarial_Attacks_Defense">Neural_Networks_Adversarial_Attacks_Defense</a></li>
+        <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/Neural_Networks_Adversarial_Attacks_Defense" target = "blank">Neural_Networks_Adversarial_Attacks_Defense</a></li>
       </ul>
     </li>
     <li>
