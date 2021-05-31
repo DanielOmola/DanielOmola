@@ -26,7 +26,7 @@ Each project contains a detailed README.md file to enable a full understanding a
             <li><a href="#description">Decision_Tree_Regressor_From_Scratch</a></li>
 		</ul>
         <ul>
-            <li><a href="#description">Linear_Regression_From_Scratch</a></li>
+            <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/Linear_Regression_From_Scratch">Linear_Regression_From_Scratch</a></li>
         </ul>
     </li>
     <li>
@@ -35,34 +35,34 @@ Each project contains a detailed README.md file to enable a full understanding a
             <li><a href="#description">Decision_Tree_Classifier_From_Scratch</a></li>
         </ul>
         <ul>
-            <li><a href="#description">K_Nearest_Neighbors</a></li>
+            <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/K_Nearest_Neighbors">K_Nearest_Neighbors</a></li>
         </ul>
         <ul>
             <li><a href="#description">Logistic_Regression_From_Scratch</a></li>
         </ul>
         <ul>
-            <li><a href="#description">Naive_Bayes_Sentiment_Analysis</a></li>
+            <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/Naive_Bayes_Sentiment_Analysis">Naive_Bayes_Sentiment_Analysis</a></li>
         </ul>
         <ul>
-            <li><a href="#description">SVM_Classifier_From_Scratch</a></li>
+            <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/SVM_Classifier_From_Scratch">SVM_Classifier_From_Scratch</a></li>
         </ul>
     </li>
     <li>
         <a href="#Clustering">Clustering</a>
         <ul>
-            <li><a href="#description">DBSCAN_From_Scratch</a></li>
+            <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/DBSCAN_From_Scratch">DBSCAN_From_Scratch</a></li>
         </ul>
         <ul>
-            <li><a href="#description">Hierarchical_Clustering_From_Scratch</a></li>
+            <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/Hierarchical_Clustering_From_Scratch">Hierarchical_Clustering_From_Scratch</a></li>
         </ul>
         <ul>
-            <li><a href="#description">K_Means_From_Scratch</a></li>
+            <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/K_Means_From_Scratch">K_Means_From_Scratch</a></li>
         </ul>
     </li>	
     <li>
         <a href="#Regression">Dimension Reduction</a>
         <ul>
-            <li><a href="#description">PCA_From_Scratch</a></li>
+            <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/PCA_From_Scratch">PCA_From_Scratch</a></li>
         </ul>
         <ul>
             <li><a href="#description">LDA_From_Scratch</a></li>
@@ -87,7 +87,7 @@ Each project contains a detailed README.md file to enable a full understanding a
     <li>
       <a href="#getting-started">Tensor Flow</a>
       <ul>
-        <li><a href="#description">LSTM_Anomaly_Detection</a></li>
+        <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/LSTM_Anomaly_Detection">LSTM_Anomaly_Detection</a></li>
       </ul>
     </li>
   </ol>
@@ -102,7 +102,7 @@ Each project contains a detailed README.md file to enable a full understanding a
     <li>
       <a href="#about-the-project">Plotly</a>
       <ul>
-        <li><a href="#description">Visualization_Corporate_Finance</a></li>
+        <li><a href="https://github.com/DanielOmola/Data_Science_Portfolio/tree/main/Visualization_Corporate_Finance">Visualization_Corporate_Finance</a></li>
       </ul>
     </li>
   </ol>
